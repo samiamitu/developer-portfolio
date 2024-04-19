@@ -44,6 +44,10 @@ nav li{
 }
 .header{
     background-color:  #fff8f3;
+    background-image: url(images/header_bg.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: bottom right;
 }
 .banner{
     padding: 30px 30px 30px 150px;
@@ -68,6 +72,7 @@ nav li{
 
 }
 .image{
-height: 20%;
-width: 20%; 
+height: 100%;
+width: 100%; 
+margin-top: 30px;
 }
