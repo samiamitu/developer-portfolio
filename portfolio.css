@@ -76,3 +76,38 @@ height: 100%;
 width: 100%; 
 margin-top: 30px;
 }
+.about{
+    padding: 130px;
+    margin: 100px 70px;
+    background-color: #f3c99b;
+   
+    
+}
+.section_title{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.description{
+    text-align: center;
+    font-size: 10px;
+}
+.details{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    /* gap: 50px; */
+}
+.name{
+    color: #ada8a8;
+}
+.info{
+    margin-bottom:50px;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
